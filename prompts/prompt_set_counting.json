@@ -1,0 +1,827 @@
+{
+    "a realistic photo of an airplane": [
+        "a realistic photo of two airplanes",
+        "a realistic photo of three airplanes"
+    ],
+    "a realistic photo of an apple": [
+        "a realistic photo of two apples",
+        "a realistic photo of three apples"
+    ],
+    "a realistic photo of an automobile": [
+        "a realistic photo of two automobiles",
+        "a realistic photo of three automobiles"
+    ],
+    "a realistic photo of a bird": [
+        "a realistic photo of two birds",
+        "a realistic photo of three birds"
+    ],
+    "a realistic photo of a book": [
+        "a realistic photo of two books",
+        "a realistic photo of three books"
+    ],
+    "a realistic photo of a cake": [
+        "a realistic photo of two cakes",
+        "a realistic photo of three cakes"
+    ],
+    "a realistic photo of a carrot": [
+        "a realistic photo of two carrots",
+        "a realistic photo of three carrots"
+    ],
+    "a realistic photo of a cat": [
+        "a realistic photo of two cats",
+        "a realistic photo of three cats"
+    ],
+    "a realistic photo of a chair": [
+        "a realistic photo of two chairs",
+        "a realistic photo of three chairs"
+    ],
+    "a realistic photo of a cup": [
+        "a realistic photo of two cups",
+        "a realistic photo of three cups"
+    ],
+    "a realistic photo of a deer": [
+        "a realistic photo of two deer",
+        "a realistic photo of three deer"
+    ],
+    "a realistic photo of a dog": [
+        "a realistic photo of two dogs",
+        "a realistic photo of three dogs"
+    ],
+    "a realistic photo of a fork": [
+        "a realistic photo of two forks",
+        "a realistic photo of three forks"
+    ],
+    "a realistic photo of a frog": [
+        "a realistic photo of two frogs",
+        "a realistic photo of three frogs"
+    ],
+    "a realistic photo of a horse": [
+        "a realistic photo of two horses",
+        "a realistic photo of three horses"
+    ],
+    "a realistic photo of a laptop": [
+        "a realistic photo of two laptops",
+        "a realistic photo of three laptops"
+    ],
+    "a realistic photo of a microwave": [
+        "a realistic photo of two microwaves",
+        "a realistic photo of three microwaves"
+    ],
+    "a realistic photo of an orange": [
+        "a realistic photo of two oranges",
+        "a realistic photo of three oranges"
+    ],
+    "a realistic photo of a ship": [
+        "a realistic photo of two ships",
+        "a realistic photo of three ships"
+    ],
+    "a realistic photo of a suitcase": [
+        "a realistic photo of two suitcases",
+        "a realistic photo of three suitcases"
+    ],
+    "a realistic photo of a teddy bear": [
+        "a realistic photo of two teddy bears",
+        "a realistic photo of three teddy bears"
+    ],
+    "a realistic photo of a toaster": [
+        "a realistic photo of two toasters",
+        "a realistic photo of three toasters"
+    ],
+    "a realistic photo of a truck": [
+        "a realistic photo of two trucks",
+        "a realistic photo of three trucks"
+    ],
+    "a realistic photo of an umbrella": [
+        "a realistic photo of two umbrellas",
+        "a realistic photo of three umbrellas"
+    ],
+    "a realistic photo of a vase": [
+        "a realistic photo of two vases",
+        "a realistic photo of three vases"
+    ],
+    "a realistic photo of two airplanes": [
+        "a realistic photo of an airplane",
+        "a realistic photo of three airplanes",
+        "a realistic photo of four airplanes"
+    ],
+    "a realistic photo of two apples": [
+        "a realistic photo of an apple",
+        "a realistic photo of three apples",
+        "a realistic photo of four apples"
+    ],
+    "a realistic photo of two automobiles": [
+        "a realistic photo of an automobile",
+        "a realistic photo of three automobiles",
+        "a realistic photo of four automobiles"
+    ],
+    "a realistic photo of two birds": [
+        "a realistic photo of a bird",
+        "a realistic photo of three birds",
+        "a realistic photo of four birds"
+    ],
+    "a realistic photo of two books": [
+        "a realistic photo of a book",
+        "a realistic photo of three books",
+        "a realistic photo of four books"
+    ],
+    "a realistic photo of two cakes": [
+        "a realistic photo of a cake",
+        "a realistic photo of three cakes",
+        "a realistic photo of four cakes"
+    ],
+    "a realistic photo of two carrots": [
+        "a realistic photo of a carrot",
+        "a realistic photo of three carrots",
+        "a realistic photo of four carrots"
+    ],
+    "a realistic photo of two cats": [
+        "a realistic photo of a cat",
+        "a realistic photo of three cats",
+        "a realistic photo of four cats"
+    ],
+    "a realistic photo of two chairs": [
+        "a realistic photo of a chair",
+        "a realistic photo of three chairs",
+        "a realistic photo of four chairs"
+    ],
+    "a realistic photo of two cups": [
+        "a realistic photo of a cup",
+        "a realistic photo of three cups",
+        "a realistic photo of four cups"
+    ],
+    "a realistic photo of two deer": [
+        "a realistic photo of a deer",
+        "a realistic photo of three deer",
+        "a realistic photo of four deer"
+    ],
+    "a realistic photo of two dogs": [
+        "a realistic photo of a dog",
+        "a realistic photo of three dogs",
+        "a realistic photo of four dogs"
+    ],
+    "a realistic photo of two forks": [
+        "a realistic photo of a fork",
+        "a realistic photo of three forks",
+        "a realistic photo of four forks"
+    ],
+    "a realistic photo of two frogs": [
+        "a realistic photo of a frog",
+        "a realistic photo of three frogs",
+        "a realistic photo of four frogs"
+    ],
+    "a realistic photo of two horses": [
+        "a realistic photo of a horse",
+        "a realistic photo of three horses",
+        "a realistic photo of four horses"
+    ],
+    "a realistic photo of two laptops": [
+        "a realistic photo of a laptop",
+        "a realistic photo of three laptops",
+        "a realistic photo of four laptops"
+    ],
+    "a realistic photo of two microwaves": [
+        "a realistic photo of a microwave",
+        "a realistic photo of three microwaves",
+        "a realistic photo of four microwaves"
+    ],
+    "a realistic photo of two oranges": [
+        "a realistic photo of an orange",
+        "a realistic photo of three oranges",
+        "a realistic photo of four oranges"
+    ],
+    "a realistic photo of two ships": [
+        "a realistic photo of a ship",
+        "a realistic photo of three ships",
+        "a realistic photo of four ships"
+    ],
+    "a realistic photo of two suitcases": [
+        "a realistic photo of a suitcase",
+        "a realistic photo of three suitcases",
+        "a realistic photo of four suitcases"
+    ],
+    "a realistic photo of two teddy bears": [
+        "a realistic photo of a teddy bear",
+        "a realistic photo of three teddy bears",
+        "a realistic photo of four teddy bears"
+    ],
+    "a realistic photo of two toasters": [
+        "a realistic photo of a toaster",
+        "a realistic photo of three toasters",
+        "a realistic photo of four toasters"
+    ],
+    "a realistic photo of two trucks": [
+        "a realistic photo of a truck",
+        "a realistic photo of three trucks",
+        "a realistic photo of four trucks"
+    ],
+    "a realistic photo of two umbrellas": [
+        "a realistic photo of an umbrella",
+        "a realistic photo of three umbrellas",
+        "a realistic photo of four umbrellas"
+    ],
+    "a realistic photo of two vases": [
+        "a realistic photo of a vase",
+        "a realistic photo of three vases",
+        "a realistic photo of four vases"
+    ],
+    "a realistic photo of three airplanes": [
+        "a realistic photo of an airplane",
+        "a realistic photo of two airplanes",
+        "a realistic photo of four airplanes",
+        "a realistic photo of five airplanes"
+    ],
+    "a realistic photo of three apples": [
+        "a realistic photo of an apple",
+        "a realistic photo of two apples",
+        "a realistic photo of four apples",
+        "a realistic photo of five apples"
+    ],
+    "a realistic photo of three automobiles": [
+        "a realistic photo of an automobile",
+        "a realistic photo of two automobiles",
+        "a realistic photo of four automobiles",
+        "a realistic photo of five automobiles"
+    ],
+    "a realistic photo of three birds": [
+        "a realistic photo of a bird",
+        "a realistic photo of two birds",
+        "a realistic photo of four birds",
+        "a realistic photo of five birds"
+    ],
+    "a realistic photo of three books": [
+        "a realistic photo of a book",
+        "a realistic photo of two books",
+        "a realistic photo of four books",
+        "a realistic photo of five books"
+    ],
+    "a realistic photo of three cakes": [
+        "a realistic photo of a cake",
+        "a realistic photo of two cakes",
+        "a realistic photo of four cakes",
+        "a realistic photo of five cakes"
+    ],
+    "a realistic photo of three carrots": [
+        "a realistic photo of a carrot",
+        "a realistic photo of two carrots",
+        "a realistic photo of four carrots",
+        "a realistic photo of five carrots"
+    ],
+    "a realistic photo of three cats": [
+        "a realistic photo of a cat",
+        "a realistic photo of two cats",
+        "a realistic photo of four cats",
+        "a realistic photo of five cats"
+    ],
+    "a realistic photo of three chairs": [
+        "a realistic photo of a chair",
+        "a realistic photo of two chairs",
+        "a realistic photo of four chairs",
+        "a realistic photo of five chairs"
+    ],
+    "a realistic photo of three cups": [
+        "a realistic photo of a cup",
+        "a realistic photo of two cups",
+        "a realistic photo of four cups",
+        "a realistic photo of five cups"
+    ],
+    "a realistic photo of three deer": [
+        "a realistic photo of a deer",
+        "a realistic photo of two deer",
+        "a realistic photo of four deer",
+        "a realistic photo of five deer"
+    ],
+    "a realistic photo of three dogs": [
+        "a realistic photo of a dog",
+        "a realistic photo of two dogs",
+        "a realistic photo of four dogs",
+        "a realistic photo of five dogs"
+    ],
+    "a realistic photo of three forks": [
+        "a realistic photo of a fork",
+        "a realistic photo of two forks",
+        "a realistic photo of four forks",
+        "a realistic photo of five forks"
+    ],
+    "a realistic photo of three frogs": [
+        "a realistic photo of a frog",
+        "a realistic photo of two frogs",
+        "a realistic photo of four frogs",
+        "a realistic photo of five frogs"
+    ],
+    "a realistic photo of three horses": [
+        "a realistic photo of a horse",
+        "a realistic photo of two horses",
+        "a realistic photo of four horses",
+        "a realistic photo of five horses"
+    ],
+    "a realistic photo of three laptops": [
+        "a realistic photo of a laptop",
+        "a realistic photo of two laptops",
+        "a realistic photo of four laptops",
+        "a realistic photo of five laptops"
+    ],
+    "a realistic photo of three microwaves": [
+        "a realistic photo of a microwave",
+        "a realistic photo of two microwaves",
+        "a realistic photo of four microwaves",
+        "a realistic photo of five microwaves"
+    ],
+    "a realistic photo of three oranges": [
+        "a realistic photo of an orange",
+        "a realistic photo of two oranges",
+        "a realistic photo of four oranges",
+        "a realistic photo of five oranges"
+    ],
+    "a realistic photo of three ships": [
+        "a realistic photo of a ship",
+        "a realistic photo of two ships",
+        "a realistic photo of four ships",
+        "a realistic photo of five ships"
+    ],
+    "a realistic photo of three suitcases": [
+        "a realistic photo of a suitcase",
+        "a realistic photo of two suitcases",
+        "a realistic photo of four suitcases",
+        "a realistic photo of five suitcases"
+    ],
+    "a realistic photo of three teddy bears": [
+        "a realistic photo of a teddy bear",
+        "a realistic photo of two teddy bears",
+        "a realistic photo of four teddy bears",
+        "a realistic photo of five teddy bears"
+    ],
+    "a realistic photo of three toasters": [
+        "a realistic photo of a toaster",
+        "a realistic photo of two toasters",
+        "a realistic photo of four toasters",
+        "a realistic photo of five toasters"
+    ],
+    "a realistic photo of three trucks": [
+        "a realistic photo of a truck",
+        "a realistic photo of two trucks",
+        "a realistic photo of four trucks",
+        "a realistic photo of five trucks"
+    ],
+    "a realistic photo of three umbrellas": [
+        "a realistic photo of an umbrella",
+        "a realistic photo of two umbrellas",
+        "a realistic photo of four umbrellas",
+        "a realistic photo of five umbrellas"
+    ],
+    "a realistic photo of three vases": [
+        "a realistic photo of a vase",
+        "a realistic photo of two vases",
+        "a realistic photo of four vases",
+        "a realistic photo of five vases"
+    ],
+    "a realistic photo of four airplanes": [
+        "a realistic photo of two airplanes",
+        "a realistic photo of three airplanes",
+        "a realistic photo of five airplanes",
+        "a realistic photo of six airplanes"
+    ],
+    "a realistic photo of four apples": [
+        "a realistic photo of two apples",
+        "a realistic photo of three apples",
+        "a realistic photo of five apples",
+        "a realistic photo of six apples"
+    ],
+    "a realistic photo of four automobiles": [
+        "a realistic photo of two automobiles",
+        "a realistic photo of three automobiles",
+        "a realistic photo of five automobiles",
+        "a realistic photo of six automobiles"
+    ],
+    "a realistic photo of four birds": [
+        "a realistic photo of two birds",
+        "a realistic photo of three birds",
+        "a realistic photo of five birds",
+        "a realistic photo of six birds"
+    ],
+    "a realistic photo of four books": [
+        "a realistic photo of two books",
+        "a realistic photo of three books",
+        "a realistic photo of five books",
+        "a realistic photo of six books"
+    ],
+    "a realistic photo of four cakes": [
+        "a realistic photo of two cakes",
+        "a realistic photo of three cakes",
+        "a realistic photo of five cakes",
+        "a realistic photo of six cakes"
+    ],
+    "a realistic photo of four carrots": [
+        "a realistic photo of two carrots",
+        "a realistic photo of three carrots",
+        "a realistic photo of five carrots",
+        "a realistic photo of six carrots"
+    ],
+    "a realistic photo of four cats": [
+        "a realistic photo of two cats",
+        "a realistic photo of three cats",
+        "a realistic photo of five cats",
+        "a realistic photo of six cats"
+    ],
+    "a realistic photo of four chairs": [
+        "a realistic photo of two chairs",
+        "a realistic photo of three chairs",
+        "a realistic photo of five chairs",
+        "a realistic photo of six chairs"
+    ],
+    "a realistic photo of four cups": [
+        "a realistic photo of two cups",
+        "a realistic photo of three cups",
+        "a realistic photo of five cups",
+        "a realistic photo of six cups"
+    ],
+    "a realistic photo of four deer": [
+        "a realistic photo of two deer",
+        "a realistic photo of three deer",
+        "a realistic photo of five deer",
+        "a realistic photo of six deer"
+    ],
+    "a realistic photo of four dogs": [
+        "a realistic photo of two dogs",
+        "a realistic photo of three dogs",
+        "a realistic photo of five dogs",
+        "a realistic photo of six dogs"
+    ],
+    "a realistic photo of four forks": [
+        "a realistic photo of two forks",
+        "a realistic photo of three forks",
+        "a realistic photo of five forks",
+        "a realistic photo of six forks"
+    ],
+    "a realistic photo of four frogs": [
+        "a realistic photo of two frogs",
+        "a realistic photo of three frogs",
+        "a realistic photo of five frogs",
+        "a realistic photo of six frogs"
+    ],
+    "a realistic photo of four horses": [
+        "a realistic photo of two horses",
+        "a realistic photo of three horses",
+        "a realistic photo of five horses",
+        "a realistic photo of six horses"
+    ],
+    "a realistic photo of four laptops": [
+        "a realistic photo of two laptops",
+        "a realistic photo of three laptops",
+        "a realistic photo of five laptops",
+        "a realistic photo of six laptops"
+    ],
+    "a realistic photo of four microwaves": [
+        "a realistic photo of two microwaves",
+        "a realistic photo of three microwaves",
+        "a realistic photo of five microwaves",
+        "a realistic photo of six microwaves"
+    ],
+    "a realistic photo of four oranges": [
+        "a realistic photo of two oranges",
+        "a realistic photo of three oranges",
+        "a realistic photo of five oranges",
+        "a realistic photo of six oranges"
+    ],
+    "a realistic photo of four ships": [
+        "a realistic photo of two ships",
+        "a realistic photo of three ships",
+        "a realistic photo of five ships",
+        "a realistic photo of six ships"
+    ],
+    "a realistic photo of four suitcases": [
+        "a realistic photo of two suitcases",
+        "a realistic photo of three suitcases",
+        "a realistic photo of five suitcases",
+        "a realistic photo of six suitcases"
+    ],
+    "a realistic photo of four teddy bears": [
+        "a realistic photo of two teddy bears",
+        "a realistic photo of three teddy bears",
+        "a realistic photo of five teddy bears",
+        "a realistic photo of six teddy bears"
+    ],
+    "a realistic photo of four toasters": [
+        "a realistic photo of two toasters",
+        "a realistic photo of three toasters",
+        "a realistic photo of five toasters",
+        "a realistic photo of six toasters"
+    ],
+    "a realistic photo of four trucks": [
+        "a realistic photo of two trucks",
+        "a realistic photo of three trucks",
+        "a realistic photo of five trucks",
+        "a realistic photo of six trucks"
+    ],
+    "a realistic photo of four umbrellas": [
+        "a realistic photo of two umbrellas",
+        "a realistic photo of three umbrellas",
+        "a realistic photo of five umbrellas",
+        "a realistic photo of six umbrellas"
+    ],
+    "a realistic photo of four vases": [
+        "a realistic photo of two vases",
+        "a realistic photo of three vases",
+        "a realistic photo of five vases",
+        "a realistic photo of six vases"
+    ],
+    "a realistic photo of five airplanes": [
+        "a realistic photo of three airplanes",
+        "a realistic photo of four airplanes",
+        "a realistic photo of six airplanes",
+        "a realistic photo of seven airplanes"
+    ],
+    "a realistic photo of five apples": [
+        "a realistic photo of three apples",
+        "a realistic photo of four apples",
+        "a realistic photo of six apples",
+        "a realistic photo of seven apples"
+    ],
+    "a realistic photo of five automobiles": [
+        "a realistic photo of three automobiles",
+        "a realistic photo of four automobiles",
+        "a realistic photo of six automobiles",
+        "a realistic photo of seven automobiles"
+    ],
+    "a realistic photo of five birds": [
+        "a realistic photo of three birds",
+        "a realistic photo of four birds",
+        "a realistic photo of six birds",
+        "a realistic photo of seven birds"
+    ],
+    "a realistic photo of five books": [
+        "a realistic photo of three books",
+        "a realistic photo of four books",
+        "a realistic photo of six books",
+        "a realistic photo of seven books"
+    ],
+    "a realistic photo of five cakes": [
+        "a realistic photo of three cakes",
+        "a realistic photo of four cakes",
+        "a realistic photo of six cakes",
+        "a realistic photo of seven cakes"
+    ],
+    "a realistic photo of five carrots": [
+        "a realistic photo of three carrots",
+        "a realistic photo of four carrots",
+        "a realistic photo of six carrots",
+        "a realistic photo of seven carrots"
+    ],
+    "a realistic photo of five cats": [
+        "a realistic photo of three cats",
+        "a realistic photo of four cats",
+        "a realistic photo of six cats",
+        "a realistic photo of seven cats"
+    ],
+    "a realistic photo of five chairs": [
+        "a realistic photo of three chairs",
+        "a realistic photo of four chairs",
+        "a realistic photo of six chairs",
+        "a realistic photo of seven chairs"
+    ],
+    "a realistic photo of five cups": [
+        "a realistic photo of three cups",
+        "a realistic photo of four cups",
+        "a realistic photo of six cups",
+        "a realistic photo of seven cups"
+    ],
+    "a realistic photo of five deer": [
+        "a realistic photo of three deer",
+        "a realistic photo of four deer",
+        "a realistic photo of six deer",
+        "a realistic photo of seven deer"
+    ],
+    "a realistic photo of five dogs": [
+        "a realistic photo of three dogs",
+        "a realistic photo of four dogs",
+        "a realistic photo of six dogs",
+        "a realistic photo of seven dogs"
+    ],
+    "a realistic photo of five forks": [
+        "a realistic photo of three forks",
+        "a realistic photo of four forks",
+        "a realistic photo of six forks",
+        "a realistic photo of seven forks"
+    ],
+    "a realistic photo of five frogs": [
+        "a realistic photo of three frogs",
+        "a realistic photo of four frogs",
+        "a realistic photo of six frogs",
+        "a realistic photo of seven frogs"
+    ],
+    "a realistic photo of five horses": [
+        "a realistic photo of three horses",
+        "a realistic photo of four horses",
+        "a realistic photo of six horses",
+        "a realistic photo of seven horses"
+    ],
+    "a realistic photo of five laptops": [
+        "a realistic photo of three laptops",
+        "a realistic photo of four laptops",
+        "a realistic photo of six laptops",
+        "a realistic photo of seven laptops"
+    ],
+    "a realistic photo of five microwaves": [
+        "a realistic photo of three microwaves",
+        "a realistic photo of four microwaves",
+        "a realistic photo of six microwaves",
+        "a realistic photo of seven microwaves"
+    ],
+    "a realistic photo of five oranges": [
+        "a realistic photo of three oranges",
+        "a realistic photo of four oranges",
+        "a realistic photo of six oranges",
+        "a realistic photo of seven oranges"
+    ],
+    "a realistic photo of five ships": [
+        "a realistic photo of three ships",
+        "a realistic photo of four ships",
+        "a realistic photo of six ships",
+        "a realistic photo of seven ships"
+    ],
+    "a realistic photo of five suitcases": [
+        "a realistic photo of three suitcases",
+        "a realistic photo of four suitcases",
+        "a realistic photo of six suitcases",
+        "a realistic photo of seven suitcases"
+    ],
+    "a realistic photo of five teddy bears": [
+        "a realistic photo of three teddy bears",
+        "a realistic photo of four teddy bears",
+        "a realistic photo of six teddy bears",
+        "a realistic photo of seven teddy bears"
+    ],
+    "a realistic photo of five toasters": [
+        "a realistic photo of three toasters",
+        "a realistic photo of four toasters",
+        "a realistic photo of six toasters",
+        "a realistic photo of seven toasters"
+    ],
+    "a realistic photo of five trucks": [
+        "a realistic photo of three trucks",
+        "a realistic photo of four trucks",
+        "a realistic photo of six trucks",
+        "a realistic photo of seven trucks"
+    ],
+    "a realistic photo of five umbrellas": [
+        "a realistic photo of three umbrellas",
+        "a realistic photo of four umbrellas",
+        "a realistic photo of six umbrellas",
+        "a realistic photo of seven umbrellas"
+    ],
+    "a realistic photo of five vases": [
+        "a realistic photo of three vases",
+        "a realistic photo of four vases",
+        "a realistic photo of six vases",
+        "a realistic photo of seven vases"
+    ],
+    "a realistic photo of six airplanes": [
+        "a realistic photo of four airplanes",
+        "a realistic photo of five airplanes",
+        "a realistic photo of seven airplanes",
+        "a realistic photo of eight airplanes"
+    ],
+    "a realistic photo of six apples": [
+        "a realistic photo of four apples",
+        "a realistic photo of five apples",
+        "a realistic photo of seven apples",
+        "a realistic photo of eight apples"
+    ],
+    "a realistic photo of six automobiles": [
+        "a realistic photo of four automobiles",
+        "a realistic photo of five automobiles",
+        "a realistic photo of seven automobiles",
+        "a realistic photo of eight automobiles"
+    ],
+    "a realistic photo of six birds": [
+        "a realistic photo of four birds",
+        "a realistic photo of five birds",
+        "a realistic photo of seven birds",
+        "a realistic photo of eight birds"
+    ],
+    "a realistic photo of six books": [
+        "a realistic photo of four books",
+        "a realistic photo of five books",
+        "a realistic photo of seven books",
+        "a realistic photo of eight books"
+    ],
+    "a realistic photo of six cakes": [
+        "a realistic photo of four cakes",
+        "a realistic photo of five cakes",
+        "a realistic photo of seven cakes",
+        "a realistic photo of eight cakes"
+    ],
+    "a realistic photo of six carrots": [
+        "a realistic photo of four carrots",
+        "a realistic photo of five carrots",
+        "a realistic photo of seven carrots",
+        "a realistic photo of eight carrots"
+    ],
+    "a realistic photo of six cats": [
+        "a realistic photo of four cats",
+        "a realistic photo of five cats",
+        "a realistic photo of seven cats",
+        "a realistic photo of eight cats"
+    ],
+    "a realistic photo of six chairs": [
+        "a realistic photo of four chairs",
+        "a realistic photo of five chairs",
+        "a realistic photo of seven chairs",
+        "a realistic photo of eight chairs"
+    ],
+    "a realistic photo of six cups": [
+        "a realistic photo of four cups",
+        "a realistic photo of five cups",
+        "a realistic photo of seven cups",
+        "a realistic photo of eight cups"
+    ],
+    "a realistic photo of six deer": [
+        "a realistic photo of four deer",
+        "a realistic photo of five deer",
+        "a realistic photo of seven deer",
+        "a realistic photo of eight deer"
+    ],
+    "a realistic photo of six dogs": [
+        "a realistic photo of four dogs",
+        "a realistic photo of five dogs",
+        "a realistic photo of seven dogs",
+        "a realistic photo of eight dogs"
+    ],
+    "a realistic photo of six forks": [
+        "a realistic photo of four forks",
+        "a realistic photo of five forks",
+        "a realistic photo of seven forks",
+        "a realistic photo of eight forks"
+    ],
+    "a realistic photo of six frogs": [
+        "a realistic photo of four frogs",
+        "a realistic photo of five frogs",
+        "a realistic photo of seven frogs",
+        "a realistic photo of eight frogs"
+    ],
+    "a realistic photo of six horses": [
+        "a realistic photo of four horses",
+        "a realistic photo of five horses",
+        "a realistic photo of seven horses",
+        "a realistic photo of eight horses"
+    ],
+    "a realistic photo of six laptops": [
+        "a realistic photo of four laptops",
+        "a realistic photo of five laptops",
+        "a realistic photo of seven laptops",
+        "a realistic photo of eight laptops"
+    ],
+    "a realistic photo of six microwaves": [
+        "a realistic photo of four microwaves",
+        "a realistic photo of five microwaves",
+        "a realistic photo of seven microwaves",
+        "a realistic photo of eight microwaves"
+    ],
+    "a realistic photo of six oranges": [
+        "a realistic photo of four oranges",
+        "a realistic photo of five oranges",
+        "a realistic photo of seven oranges",
+        "a realistic photo of eight oranges"
+    ],
+    "a realistic photo of six ships": [
+        "a realistic photo of four ships",
+        "a realistic photo of five ships",
+        "a realistic photo of seven ships",
+        "a realistic photo of eight ships"
+    ],
+    "a realistic photo of six suitcases": [
+        "a realistic photo of four suitcases",
+        "a realistic photo of five suitcases",
+        "a realistic photo of seven suitcases",
+        "a realistic photo of eight suitcases"
+    ],
+    "a realistic photo of six teddy bears": [
+        "a realistic photo of four teddy bears",
+        "a realistic photo of five teddy bears",
+        "a realistic photo of seven teddy bears",
+        "a realistic photo of eight teddy bears"
+    ],
+    "a realistic photo of six toasters": [
+        "a realistic photo of four toasters",
+        "a realistic photo of five toasters",
+        "a realistic photo of seven toasters",
+        "a realistic photo of eight toasters"
+    ],
+    "a realistic photo of six trucks": [
+        "a realistic photo of four trucks",
+        "a realistic photo of five trucks",
+        "a realistic photo of seven trucks",
+        "a realistic photo of eight trucks"
+    ],
+    "a realistic photo of six umbrellas": [
+        "a realistic photo of four umbrellas",
+        "a realistic photo of five umbrellas",
+        "a realistic photo of seven umbrellas",
+        "a realistic photo of eight umbrellas"
+    ],
+    "a realistic photo of six vases": [
+        "a realistic photo of four vases",
+        "a realistic photo of five vases",
+        "a realistic photo of seven vases",
+        "a realistic photo of eight vases"
+    ]
+}

@@ -1,0 +1,953 @@
+{
+    "a frog in the middle of the ocean": [
+        "A frog in a pond.",
+        "A frog on a lily pad.",
+        "A frog in a forest.",
+        "A frog on a tree.",
+        "A frog in a river.",
+        "Two frogs in the middle of the ocean."
+    ],
+    "a tiger in a forest": [
+        "a lion in a savannah",
+        "a cheetah in a desert",
+        "a leopard in a jungle",
+        "a panther in a mountain",
+        "a jaguar in a rainforest",
+        "a lynx in a tundra",
+        "a bobcat in a grassland",
+        "a cougar in a canyon",
+        "a snow leopard in a snowy landscape",
+        "a wildcat in a meadow"
+    ],
+    "A sign that says 'Diffusion'.": [
+        "A sign that says 'Confusion'.",
+        "A sign that says 'Infusion'.",
+        "A sign that says 'Profusion'.",
+        "A sign that says 'Transfusion'."
+    ],
+    "The Oriental Pearl in oil painting": [
+        "A watercolor painting of the Eiffel Tower.",
+        "An acrylic painting of the Statue of Liberty.",
+        "A pastel drawing of the Sydney Opera House.",
+        "A charcoal sketch of the Colosseum.",
+        "A pencil drawing of the Great Wall of China.",
+        "A digital art piece of the Taj Mahal.",
+        "An oil painting of the Leaning Tower of Pisa.",
+        "A gouache painting of the Pyramids of Giza.",
+        "A tempera painting of the Parthenon.",
+        "An ink drawing of the Machu Picchu."
+    ],
+    "A red colored dog.": [
+        "A blue colored cat.",
+        "A green colored bird.",
+        "A yellow colored fish.",
+        "A purple colored rabbit.",
+        "An orange colored tiger.",
+        "A pink colored pig.",
+        "A brown colored bear.",
+        "A black colored horse.",
+        "A white colored sheep.",
+        "A gray colored elephant.",
+        "A cyan colored lizard.",
+        "A magenta colored butterfly.",
+        "A teal colored peacock.",
+        "A maroon colored fox.",
+        "An indigo colored dolphin.",
+        "A lavender colored unicorn.",
+        "A turquoise colored turtle.",
+        "A gold colored lion.",
+        "A silver colored wolf.",
+        "A bronze colored monkey.",
+        "Two red colored dogs.",
+        "Three red colored dogs.",
+        "Four red colored dogs."
+    ],
+    "A blue colored dog.": [
+        "a red colored cat",
+        "a green colored bird",
+        "a yellow colored fish",
+        "a purple colored rabbit",
+        "an orange colored tiger",
+        "a pink colored pig",
+        "a brown colored bear",
+        "a black colored horse",
+        "a white colored sheep",
+        "a gray colored elephant",
+        "a cyan colored lizard",
+        "a magenta colored butterfly",
+        "a teal colored peacock",
+        "a maroon colored fox",
+        "an indigo colored dolphin",
+        "a lavender colored unicorn",
+        "a turquoise colored turtle",
+        "a gold colored lion",
+        "a silver colored wolf",
+        "a bronze colored monkey",
+        "Two blue colored dogs.",
+        "Three blue colored dogs.",
+        "Four blue colored dogs."
+    ],
+    "A sandwich on a table.": [
+        "A pizza on a table.",
+        "A bowl of soup on a table.",
+        "A plate of pasta on a table.",
+        "A cup of coffee on a table.",
+        "A glass of juice on a table."
+    ],
+    "A magnifying glass over a page of a 1950s batman comic.": [
+        "A magnifying glass over a page of a 1960s batman comic.",
+        "A magnifying glass over a page of a 1970s batman comic.",
+        "Two magnifying glasses over a page of a 1950s batman comic.",
+        "A magnifying glass over two pages of a 1950s batman comic.",
+        "A magnifying glass over a page of a 1950s superman comic.",
+        "A magnifying glass over a page of a 1950s spiderman comic."
+    ],
+    "A sign that says 'NeurIPS'.": [
+        "A sign that reads 'NeuroIPS'.",
+        "A sign with a typo 'NuerIPS'."
+    ],
+    "Photo of a cat singing in a barbershop quartet.": [
+        "Photo of a dog singing in a barbershop quartet.",
+        "Photo of a cat dancing in a barbershop quartet.",
+        "Photo of a cat singing in a rock band.",
+        "Photo of a cat singing in a choir.",
+        "Photo of a cat playing an instrument in a barbershop quartet."
+    ],
+    "Five dogs on the street.": [
+        "Two dogs on the street.",
+        "Three dogs on the street.",
+        "Four dogs on the street.",
+        "Six dogs on the street."
+    ],
+    "A 1960s yearbook photo with animals dressed as humans.": [
+        "A 1970s yearbook photo with animals dressed as humans.",
+        "A 1980s yearbook photo with animals dressed as humans.",
+        "A 1990s yearbook photo with animals dressed as humans.",
+        "A 2000s yearbook photo with animals dressed as humans.",
+        "A 2010s yearbook photo with animals dressed as humans.",
+        "A 1960s yearbook photo with humans dressed as animals.",
+        "A 1970s yearbook photo with humans dressed as animals.",
+        "A 1980s yearbook photo with humans dressed as animals.",
+        "A 1990s yearbook photo with humans dressed as animals.",
+        "A 2000s yearbook photo with humans dressed as animals.",
+        "A 2010s yearbook photo with humans dressed as animals."
+    ],
+    "A photo of a confused grizzly bear in calculus class.": [
+        "A photo of a surprised kangaroo in physics class.",
+        "A photo of a curious lion in chemistry class.",
+        "A photo of a bored elephant in history class.",
+        "A photo of an excited monkey in English class.",
+        "A photo of a sleepy panda in art class."
+    ],
+    "An umbrella on top of a spoon.": [
+        "A spoon.",
+        "An umbrella.",
+        "An umbrella on the right of a spoon.",
+        "An umbrella on the left of a spoon.",
+        "An umbrella at the bottom of a spoon.",
+        "Two umbrellas on top of a spoon."
+    ],
+    "A glowing mushroom in the forest": [
+        "a sparkling flower in the garden",
+        "a luminous firefly in the night sky",
+        "a shimmering starfish in the ocean",
+        "a radiant sunflower in the field",
+        "a glowing jellyfish in the deep sea",
+        "a gleaming diamond in the jewelry store",
+        "a luminescent moon in the night sky",
+        "a glowing firefly in the meadow",
+        "a sparkling gemstone in the cave",
+        "a luminous butterfly in the garden",
+        "a shimmering seashell on the beach",
+        "a radiant rainbow in the sky",
+        "a glowing lantern in the dark",
+        "a luminescent lightning bug in the field",
+        "a sparkling crystal in the cave",
+        "a shimmering waterfall in the forest",
+        "a radiant star in the night sky",
+        "a glowing firefly in the park",
+        "a luminous pearl in the oyster",
+        "a sparkling diamond in the jewelry box"
+    ],
+    "flower made of glass": [
+        "a star made of crystal",
+        "a heart made of porcelain",
+        "a butterfly made of ceramic",
+        "a moon made of jade",
+        "a sun made of amber",
+        "a diamond made of quartz",
+        "a crown made of gold",
+        "a cloud made of silver",
+        "a rainbow made of gemstones"
+    ],
+    "A train on top of a surfboard.": [
+        "A surfboard.",
+        "A train.",
+        "A train on the right of a surfboard.",
+        "A train on the left of a surfboard.",
+        "A train at the bottom of a surfboard.",
+        "Two trains on top of a surfboard."
+    ],
+    "mighty swordsman in anime style": [
+        "Mighty magician in anime style",
+        "Mighty archer in anime style",
+        "Mighty warrior in a fantasy novel",
+        "Mighty swordsman in a historical drama",
+        "Mighty swordsman in a comic book style",
+        "Mighty swordsman in a video game style"
+    ],
+    "35mm macro shot a kitten licking a baby duck, studio lighting.": [
+        "35mm macro shot two kittens licking a baby duck, studio lighting.",
+        "35mm macro shot a kitten, studio lighting.",
+        "35mm macro shot a duck, studio lighting.",
+        "35mm macro shot two kittens, studio lighting.",
+        "35mm macro shot two ducks, studio lighting."
+    ],
+    "A sheep to the right of a wine glass.": [
+        "A sheep.",
+        "A wine glass.",
+        "A sheep to the left of a wine glass.",
+        "A sheep on top of a wine glass.",
+        "A sheep at the bottom of a wine glass.",
+        "Two sheep to the right of a wine glass."
+    ],
+    "Four dogs on the street.": [
+        "A single dog on the street.",
+        "Two dogs on the street.",
+        "Three dogs on the street.",
+        "Five dogs on the street.",
+        "Six dogs on the street."
+    ],
+    "flower made of pizza": [
+        "A star made of pasta.",
+        "A heart made of bread.",
+        "A moon made of cheese.",
+        "A sun made of pepperoni.",
+        "A butterfly made of olives.",
+        "A diamond made of tomatoes.",
+        "A rainbow made of bell peppers.",
+        "A cloud made of mushrooms."
+    ],
+    "Photo of an athlete cat explaining it's latest scandal at a press conference to journalists.": [
+        "Photo of an athlete dog explaining it's latest scandal at a press conference to journalists.",
+        "Photo of an athlete cat explaining it's latest victory at a press conference to journalists.",
+        "Photo of an athlete cat explaining it's latest scandal at a press conference to fans.",
+        "Photo of an athlete cat explaining it's latest scandal at a press conference to other athletes.",
+        "Photo of an athlete cat explaining it's latest scandal at a press conference to its coach."
+    ],
+    "A sign that says 'Text to Image'.": [
+        "A sign that reads 'Image to Text'.",
+        "A sign with the words 'Text from Image'."
+    ],
+    "Hyper-realistic photo of an abandoned industrial site during a storm.": [
+        "Hyper-realistic photo of a bustling cityscape during a sunny day.",
+        "Hyper-realistic photo of a serene beach during sunset.",
+        "Hyper-realistic photo of a tranquil forest during autumn.",
+        "Hyper-realistic photo of a snow-covered mountain during winter.",
+        "Hyper-realistic photo of a vibrant market during peak hours.",
+        "Hyper-realistic photo of a peaceful countryside during spring.",
+        "Hyper-realistic photo of a lively carnival during the night.",
+        "Hyper-realistic photo of a quiet library during study hours.",
+        "Hyper-realistic photo of a crowded train station during rush hour.",
+        "Hyper-realistic photo of an ancient ruin during sunrise."
+    ],
+    "A sphere made of kitchen tile. A sphere with the texture of kitchen tile.": [
+        "A cube made of bathroom tile.",
+        "A pyramid made of living room carpet.",
+        "A cylinder made of hardwood flooring.",
+        "A cone made of marble countertop."
+    ],
+    "A storefront with 'NeurIPS' written on it.": [
+        "A storefront with 'NeuroIPS' misspelled on it.",
+        "A storefront with 'NeurIPS' written in a foreign script.",
+        "A storefront with 'NeurIPS' written in an unusual font.",
+        "A storefront with 'NeurIPS' written in a graffiti style.",
+        "A storefront with 'NeurIPS' written in neon lights.",
+        "A storefront with 'NeurIPS' written in a cryptic code.",
+        "A storefront with 'NeurIPS' written in a mirror image."
+    ],
+    "A green colored banana.": [
+        "A red colored apple.",
+        "A yellow colored pineapple.",
+        "A purple colored grape.",
+        "A blue colored blueberry.",
+        "An orange colored orange.",
+        "A pink colored strawberry.",
+        "A brown colored kiwi.",
+        "A black colored blackberry.",
+        "A white colored coconut.",
+        "A gray colored pear."
+    ],
+    "a horse running in a field": [
+        "a cheetah running in a forest",
+        "a lion running in a savannah",
+        "a tiger running in a jungle",
+        "a zebra running in a grassland",
+        "a giraffe running in a desert",
+        "an elephant running in a swamp",
+        "a rhinoceros running in a mountain",
+        "a hippopotamus running in a river",
+        "a gazelle running in a canyon",
+        "a wildebeest running in a valley",
+        "a kangaroo running in an outback",
+        "a koala climbing in a eucalyptus tree",
+        "a monkey swinging in a rainforest",
+        "a sloth hanging in a tropical forest",
+        "a bear fishing in a river",
+        "a wolf howling in a snowy landscape",
+        "a fox hunting in a meadow",
+        "a rabbit hopping in a garden",
+        "a squirrel gathering nuts in a park",
+        "a bird flying in the sky"
+    ],
+    "A heart made of water": [
+        "A star made of fire",
+        "A flower made of ice",
+        "A diamond made of steam",
+        "A moon made of clouds",
+        "A sun made of raindrops",
+        "A butterfly made of snowflakes",
+        "A crown made of fog",
+        "A rainbow made of dewdrops",
+        "A cloud made of mist"
+    ],
+    "McDonalds Church.": [
+        "McDonalds Temple.",
+        "McDonalds Synagogue.",
+        "McDonalds Cathedral.",
+        "McDonalds Shrine."
+    ],
+    "a dense jungle of fluorescent flowers, close up, oil painting": [
+        "A sparse desert of fluorescent cacti, close up, oil painting",
+        "A vast ocean of fluorescent corals, close up, oil painting",
+        "A bustling city of fluorescent lights, close up, oil painting",
+        "A tranquil lake of fluorescent lilies, close up, oil painting",
+        "A snowy mountain of fluorescent snowflakes, close up, oil painting",
+        "A starry sky of fluorescent stars, close up, oil painting",
+        "A sunny beach of fluorescent shells, close up, oil painting",
+        "A misty forest of fluorescent mushrooms, close up, oil painting",
+        "A windy field of fluorescent wheat, close up, oil painting",
+        "A rainy street of fluorescent reflections, close up, oil painting"
+    ],
+    "A storefront with 'Deep Learning' written on it.": [
+        "A storefront with 'Machine Learning' written on it.",
+        "A storefront with 'Artificial Intelligence' written on it.",
+        "A storefront with 'Neural Networks' written on it.",
+        "A storefront with 'Data Science' written on it.",
+        "A storefront with 'Big Data' written on it.",
+        "A storefront with 'Predictive Analytics' written on it.",
+        "A storefront with 'Natural Language Processing' written on it.",
+        "A storefront with 'Computer Vision' written on it.",
+        "A storefront with 'Robotics' written on it.",
+        "A storefront with 'Quantum Computing' written on it."
+    ],
+    "The Oriental Pearl in sketch style": [
+        "The Oriental Pearl in watercolor style",
+        "The Oriental Pearl in oil painting style",
+        "The Oriental Pearl in abstract style",
+        "The Oriental Pearl in pop art style",
+        "The Oriental Pearl in impressionist style"
+    ],
+    "A storefront with 'Text to Image' written on it.": [
+        "A storefront advertising 'Image to Text' services.",
+        "A storefront with a sign that reads 'Text to Speech'."
+    ],
+    "A storefront with 'Hello World' written on it.": [
+        "A storefront with 'Bonjour Monde' written on it.",
+        "A storefront with 'Hola Mundo' written on it.",
+        "A storefront with 'Ciao Mondo' written on it.",
+        "A storefront with 'Hallo Welt' written on it.",
+        "A storefront with 'Hej Verden' written on it.",
+        "A storefront with 'Hei Maailma' written on it.",
+        "A storefront with 'Aloha Honua' written on it.",
+        "A storefront with 'Salam Dunia' written on it.",
+        "A storefront with 'Zdravo Svijete' written on it.",
+        "A storefront with 'Merhaba D\u00fcnya' written on it."
+    ],
+    "A 1960s poster warning against climate change.": [
+        "A 1970s poster promoting environmental conservation.",
+        "A vintage poster from the 1960s advocating for nuclear disarmament."
+    ],
+    "Lego Arnold Schwarzenegger.": [
+        "Lego Sylvester Stallone.",
+        "Lego Bruce Willis.",
+        "Lego Jean-Claude Van Damme.",
+        "Lego Chuck Norris.",
+        "Lego Jackie Chan."
+    ],
+    "One cat and two dogs sitting on the grass.": [
+        "One cat siting on the grass",
+        "Two dogs sitting on the grass.",
+        "One cat and three dogs sitting on the grass.",
+        "Two cats and two dogs sitting on the grass.",
+        "Two cats and one dog sitting on the grass."
+    ],
+    "A green apple and a black backpack.": [
+        "A green apple and two black backpacks.",
+        "Two green apples and a black backpack.",
+        "An image showing a green apple-backpack.",
+        "An image showing a black backpack-apple"
+    ],
+    "human heart made of jewels.": [
+        "human heart made of crystals.",
+        "human heart made of pearls.",
+        "human heart made of diamonds.",
+        "human heart made of gold.",
+        "human heart made of silver.",
+        "human heart made of gemstones.",
+        "human heart made of ruby.",
+        "human heart made of sapphire.",
+        "human heart made of emerald."
+    ],
+    "A laptop on top of a teddy bear.": [
+        "A teddy bear.",
+        "A laptop.",
+        "A laptop on the right of a teddy bear.",
+        "A laptop on the left of a teddy bear.",
+        "A laptop at the bottom of a teddy bear.",
+        "Two laptops on top of a teddy bear."
+    ],
+    "a super math wizard cat, richly textured oil painting": [
+        "a super science wizard dog, richly textured oil painting",
+        "a super history wizard rabbit, richly textured oil painting",
+        "a super geography wizard bird, richly textured oil painting",
+        "a super art wizard mouse, richly textured oil painting",
+        "a super literature wizard squirrel, richly textured oil painting"
+    ],
+    "A cube made of denim. A cube with the texture of denim.": [
+        "A sphere made of denim.",
+        "A pyramid made of denim.",
+        "A cylinder made of denim.",
+        "A cube made of silk.",
+        "A cube made of leather."
+    ],
+    "A heart made of wood": [
+        "A star made of metal",
+        "A flower made of stone",
+        "A diamond made of glass",
+        "A moon made of marble",
+        "A sun made of bronze",
+        "A butterfly made of ceramic",
+        "A crown made of silver",
+        "A rainbow made of crystal",
+        "A cloud made of cotton"
+    ],
+    "A sign that says 'Hello World'.": [
+        "A sign that says 'Hola Mundo'.",
+        "A sign that says 'Bonjour Monde'.",
+        "A sign that says 'Hallo Welt'.",
+        "A sign that says 'Ciao Mondo'."
+    ],
+    "a squirrel in a forest": [
+        "a rabbit in a meadow",
+        "a bird in the sky",
+        "a fox in the desert",
+        "a bear in the mountains",
+        "a deer in the grassland",
+        "a raccoon in the city",
+        "a monkey in the jungle",
+        "a kangaroo in the outback",
+        "a lion in the savannah",
+        "a tiger in the rainforest"
+    ],
+    "A heart made of chocolate": [
+        "A star made of caramel",
+        "A flower made of marshmallows",
+        "A diamond made of gummy bears",
+        "A moon made of licorice",
+        "A sun made of jelly beans",
+        "A butterfly made of lollipops",
+        "A crown made of cotton candy",
+        "A rainbow made of skittles",
+        "A cloud made of cotton candy"
+    ],
+    "A red book and a yellow vase.": [
+        "A red book and two yellow vases.",
+        "A red book and a group of yellow vases.",
+        "A red book and a dominant yellow vase among the white ones.",
+        "A red book with two real vases on the side."
+    ],
+    "One dog on the street.": [
+        "Two dogs on the street.",
+        "Three dogs on the street.",
+        "Four dogs on the street.",
+        "Five dogs on the street."
+    ],
+    "dog and horse": [
+        "A dog and two horses.",
+        "Two dogs and a horse.",
+        "An image showing a dog-like horse.",
+        "An image showing a horse-like dog.",
+        "A dog and a dominant horse among the others."
+    ],
+    "A black colored car.": [
+        "A red colored car.",
+        "A blue colored car.",
+        "A green colored car.",
+        "A yellow colored car.",
+        "A purple colored car.",
+        "An orange colored car.",
+        "A pink colored car.",
+        "A brown colored car.",
+        "A white colored car.",
+        "A gray colored car.",
+        "A cyan colored car.",
+        "A magenta colored car.",
+        "A teal colored car.",
+        "A maroon colored car.",
+        "An indigo colored car.",
+        "A lavender colored car.",
+        "A turquoise colored car.",
+        "A gold colored car.",
+        "A silver colored car.",
+        "A bronze colored car."
+    ],
+    "A storefront with 'Diffusion' written on it.": [
+        "A storefront advertising a 'Confusion' sale.",
+        "A storefront with 'Dilution' as its brand name."
+    ],
+    "A real life photography of super mario, 8k Ultra HD.": [
+        "A real life photography of Luigi, 8k Ultra HD.",
+        "A real life photography of Princess Peach, 8k Ultra HD.",
+        "A real life photography of Bowser, 8k Ultra HD.",
+        "A real life photography of Yoshi, 8k Ultra HD.",
+        "A real life photography of Donkey Kong, 8k Ultra HD."
+    ],
+    "A pyramid made of falafel with a partial solar eclipse in the background.": [
+        "A pyramid made of hummus with a full moon in the background.",
+        "A pyramid made of pita bread with a meteor shower in the background.",
+        "A pyramid made of tabbouleh with a rainbow in the background.",
+        "A pyramid made of shawarma with a sunset in the background.",
+        "A pyramid made of baklava with a starry night in the background."
+    ],
+    "A cat on the right of a tennis racket.": [
+        "A cat.",
+        "A tennis racket.",
+        "A cat on the left of a tennis racket.",
+        "A cat on top of a tennis racket.",
+        "A cat at the bottom of a tennis racket.",
+        "Two cats on the right of a tennis racket."
+    ],
+    "A keyboard made of water, the water is made of light, the light is turned off.": [
+        "A keyboard made of fire, the fire is made of light, the light is turned off.",
+        "A keyboard made of ice, the ice is made of light, the light is turned off.",
+        "A keyboard made of water, the water is made of darkness, the darkness is turned on.",
+        "A keyboard made of water, the water is made of light, the light is turned on.",
+        "A keyboard made of air, the air is made of light, the light is turned off."
+    ],
+    "Illustration of a mouse using a mushroom as an umbrella.": [
+        "Illustration of a rabbit using a mushroom as an umbrella.",
+        "Illustration of a mouse using a leaf as an umbrella.",
+        "Illustration of a mouse using a mushroom as a boat.",
+        "Illustration of a rabbit using a leaf as an umbrella.",
+        "Illustration of two mice using a mushroom as an umbrella.",
+        "Illustration of a mouse and a rabbit using a mushroom as an umbrella."
+    ],
+    "A sign that says 'Deep Learning'.": [
+        "A sign that reads 'Shallow Learning'.",
+        "A sign humorously misspelled as 'Deap Lurning'."
+    ],
+    "a roast turkey on the table": [
+        "a roast chicken on the table",
+        "a roast duck on the table",
+        "a roast beef on the table",
+        "a roast lamb on the table",
+        "a roast pork on the table",
+        "a roast fish on the table",
+        "a roast venison on the table",
+        "a roast goose on the table",
+        "a roast quail on the table",
+        "a roast rabbit on the table"
+    ],
+    "Two cars on the street.": [
+        "Three cars on the street.",
+        "Four cars on the street.",
+        "Five cars on the street.",
+        "Six cars on the street."
+    ],
+    "A wine glass on top of a dog.": [
+        "A dog.",
+        "A wine glass.",
+        "A wine glass on the right of a dog.",
+        "A wine glass on the left of a dog.",
+        "A wine glass at the bottom of a dog.",
+        "Two wine glasses on top of a dog."
+    ],
+    "A car on the left of a bus.": [
+        "A car.",
+        "A bus.",
+        "A car on the right of a bus.",
+        "A car on top of a bus.",
+        "A car at the bottom of a bus.",
+        "Two cars on the left of a bus."
+    ],
+    "Photo of a mega Lego space station inside a kid's bedroom.": [
+        "Photo of a mega Lego castle inside a kid's bedroom.",
+        "Photo of a mega Lego city inside a kid's bedroom.",
+        "Photo of a mega Lego pirate ship inside a kid's bedroom.",
+        "Photo of a mega Lego dinosaur inside a kid's bedroom.",
+        "Photo of a mega Lego farm inside a kid's bedroom.",
+        "Photo of a mega Lego train station inside a kid's bedroom."
+    ],
+    "One car on the street.": [
+        "Two cars on the street.",
+        "Three cars on the street.",
+        "Four cars on the street.",
+        "Five cars on the street."
+    ],
+    "A yellow colored giraffe.": [
+        "A yellow colored giraffe with a long neck.",
+        "A yellow colored giraffe with a short neck.",
+        "A yellow colored giraffe with a long tail.",
+        "A yellow colored giraffe with a short tail.",
+        "A yellow colored giraffe with a long neck and a short tail.",
+        "A yellow colored giraffe with a short neck and a long tail.",
+        "A yellow colored giraffe with a long neck and a long tail.",
+        "A yellow colored giraffe with a short neck and a short tail."
+    ],
+    "a hammer on a table": [
+        "A screwdriver on a table.",
+        "A wrench on a table.",
+        "A drill on a table.",
+        "A saw on a table.",
+        "A pair of pliers on a table.",
+        "A chisel on a table.",
+        "A tape measure on a table.",
+        "A level on a table.",
+        "A utility knife on a table.",
+        "A set of nails on a table."
+    ],
+    "A cat on the left of a dog.": [
+        "A cat.",
+        "A dog.",
+        "A cat on the right of a dog.",
+        "A dog on the left of a cat.",
+        "A cat at the bottom of a dog.",
+        "Two cats on the left of a dog."
+    ],
+    "a cake in the desert": [
+        "a pie in the forest",
+        "a cupcake on a mountain",
+        "a donut in the jungle",
+        "a cookie in the city",
+        "a brownie in the park",
+        "a muffin on a beach",
+        "a tart in the rainforest",
+        "a croissant in the savannah",
+        "a scone in a meadow",
+        "a macaron on an island",
+        "a biscuit in a garden",
+        "a cinnamon roll in a valley",
+        "a bagel in a canyon",
+        "a danish in a swamp",
+        "a eclair on a glacier",
+        "a strudel in a vineyard",
+        "a cannoli in a grassland",
+        "a brioche on a hilltop",
+        "a pretzel in a cave",
+        "a churro on a rooftop"
+    ],
+    "A church with stained glass windows depicting a hamburger and french fries.": [
+        "A church with stained glass windows depicting a hot dog and chips.",
+        "A church with stained glass windows depicting a pizza and garlic bread.",
+        "A church with stained glass windows depicting a taco and nachos.",
+        "A church with stained glass windows depicting a sandwich and salad.",
+        "A church with stained glass windows depicting a sushi roll and miso soup."
+    ],
+    "Five cars on the street.": [
+        "Four cars on the street.",
+        "Three cars on the street.",
+        "Six cars on the street.",
+        "Two cars on the street.",
+        "Seven cars on the street."
+    ],
+    "Colouring page of large cats climbing the eifel tower in a cyberpunk future.": [
+        "Colouring page of small monkeys climbing the Machu Picchu in a futuristic volcano.",
+        "Colouring page of large elephants climbing the Taj Mahal in a futuristic desert.",
+        "Colouring page of medium-sized lions climbing the Big Ben in a futuristic savannah.",
+        "Colouring page of small dolphins climbing the Angkor Wat in a futuristic river.",
+        "Colouring page of one large cat climbing the eifel tower in a cyberpunk future."
+    ],
+    "a cartoon of an angry shark": [
+        "a cartoon of a happy dolphin",
+        "a cartoon of an angry octopus",
+        "a cartoon of a sad shark",
+        "a cartoon of an angry whale",
+        "a cartoon of a confused shark"
+    ],
+    "A brown colored giraffe.": [
+        "A brown colored elephant.",
+        "A brown colored bear.",
+        "A brown colored horse.",
+        "A brown colored dog.",
+        "A brown colored cat.",
+        "A brown colored rabbit.",
+        "A brown colored deer.",
+        "A brown colored monkey.",
+        "Two brown colored giraffes.",
+        "Three brown colored giraffes.",
+        "Four brown colored giraffes."
+    ],
+    "A couch on the left of a chair.": [
+        "A couch.",
+        "A chair.",
+        "A couch on the right of a chair.",
+        "A couch on top of a chair.",
+        "A couch at the bottom of a chair.",
+        "Two couches on the left of a chair."
+    ],
+    "cute sticker illustration of a frog": [
+        "cute sticker illustration of a cat",
+        "cute sticker illustration of a dog",
+        "cute sticker illustration of a bird",
+        "cute sticker illustration of a fish",
+        "cute sticker illustration of a turtle"
+    ],
+    "A black colored dog.": [
+        "a blue colored cat",
+        "a green colored bird",
+        "a yellow colored fish",
+        "a purple colored rabbit",
+        "an orange colored tiger",
+        "a pink colored pig",
+        "a brown colored bear",
+        "a white colored horse",
+        "a gray colored sheep",
+        "a cyan colored elephant",
+        "a magenta colored lizard",
+        "a teal colored butterfly",
+        "a maroon colored peacock",
+        "an indigo colored fox",
+        "a lavender colored unicorn",
+        "a turquoise colored turtle",
+        "a gold colored lion",
+        "a silver colored wolf",
+        "a bronze colored monkey",
+        "Two black colored dogs.",
+        "Three black colored dogs.",
+        "Four black colored dogs."
+    ],
+    "A pink colored giraffe.": [
+        "A blue colored elephant.",
+        "A green colored zebra.",
+        "A yellow colored lion.",
+        "A purple colored tiger.",
+        "An orange colored cheetah.",
+        "A red colored hippo.",
+        "A brown colored rhino.",
+        "A black colored panther.",
+        "A white colored polar bear.",
+        "A gray colored wolf.",
+        "Two pink colored giraffes.",
+        "Three pink colored giraffes.",
+        "Four pink colored giraffes."
+    ],
+    "Three dogs on the street.": [
+        "A cat on the street.",
+        "Two cats on the street.",
+        "Four cats on the street.",
+        "Five cats on the street."
+    ],
+    "a crown made of french fries": [
+        "a tiara made of onion rings",
+        "a scepter made of breadsticks",
+        "a throne made of hamburgers",
+        "a crown made of chicken nuggets",
+        "a crown made of mozzarella sticks",
+        "a crown made of pretzels",
+        "a crown made of nachos",
+        "a crown made of popcorn",
+        "a crown made of potato chips"
+    ],
+    "cute bee wearing chef hat colored pencil art": [
+        "cute bee wearing a firefighter hat colored pencil art",
+        "cute bee wearing a police hat colored pencil art",
+        "cute bee wearing a wizard hat colored pencil art",
+        "cute bee wearing a pirate hat colored pencil art",
+        "cute butterfly wearing chef hat colored pencil art",
+        "cute ladybug wearing chef hat colored pencil art",
+        "cute ant wearing chef hat colored pencil art",
+        "cute spider wearing chef hat colored pencil art"
+    ],
+    "A yellow and black bus cruising through the rainforest.": [
+        "A red and white bus driving through the desert.",
+        "A blue and green bus traveling through the mountains.",
+        "A purple and orange bus moving through the city.",
+        "A pink and gray bus journeying through the countryside.",
+        "A brown and white bus navigating through the jungle.",
+        "A black and silver bus rolling through the savannah.",
+        "A green and yellow bus traversing through the forest.",
+        "A white and blue bus making its way through the snow.",
+        "A red and black bus driving along the coast.",
+        "A yellow and gray bus cruising on a highway."
+    ],
+    "an avocado on a table": [
+        "a banana on a table",
+        "an apple on a table",
+        "a pear on a table",
+        "a pineapple on a table",
+        "a grapefruit on a table",
+        "a lemon on a table",
+        "a kiwi on a table",
+        "a pomegranate on a table",
+        "a mango on a table",
+        "a papaya on a table",
+        "a peach on a table",
+        "a plum on a table",
+        "a coconut on a table",
+        "an orange on a table",
+        "a lime on a table",
+        "a strawberry on a table",
+        "a raspberry on a table",
+        "a blueberry on a table",
+        "a blackberry on a table",
+        "a cherry on a table"
+    ],
+    "A blue bird and a brown bear.": [
+        "A blue bird and two brown bears.",
+        "A blue bird and a group of brown bears.",
+        "Two blue birds and a brown bear cub.",
+        "An image showing a blue bear-bird creature.",
+        "An image showing a brown bird-bear creature."
+    ],
+    "One cat and three dogs sitting on the grass.": [
+        "Two cats and three dogs sitting on the grass.",
+        "One cat and four dogs sitting on the grass.",
+        "One cat and two dogs sitting on the grass.",
+        "Two cats and two dogs sitting on the grass."
+    ],
+    "A pink colored car.": [
+        "A blue colored car.",
+        "A green colored car.",
+        "A yellow colored car.",
+        "A purple colored car.",
+        "An orange colored car.",
+        "A red colored car.",
+        "A brown colored car.",
+        "A black colored car.",
+        "A white colored car.",
+        "A gray colored car.",
+        "A cyan colored car.",
+        "A magenta colored car.",
+        "A teal colored car.",
+        "A maroon colored car.",
+        "An indigo colored car.",
+        "A lavender colored car.",
+        "A turquoise colored car.",
+        "A gold colored car.",
+        "A silver colored car.",
+        "A bronze colored car."
+    ],
+    "minnie mouse and baby shark cartoon": [
+        "Mickey Mouse and Baby Shark cartoon.",
+        "Donald Duck and Baby Shark cartoon.",
+        "Minnie Mouse and Baby Octopus cartoon.",
+        "Minnie Mouse and Baby Dolphin cartoon.",
+        "Mickey Mouse and Baby Octopus cartoon."
+    ],
+    "Three cars on the street.": [
+        "Two cars on the street.",
+        "Four cars on the street.",
+        "Five cars on the street.",
+        "Six cars on the street."
+    ],
+    "A red colored car.": [
+        "A blue colored car.",
+        "A green colored car.",
+        "A yellow colored car.",
+        "A purple colored car.",
+        "An orange colored car.",
+        "A pink colored car.",
+        "A brown colored car.",
+        "A black colored car.",
+        "A white colored car.",
+        "A gray colored car.",
+        "A cyan colored car.",
+        "A magenta colored car.",
+        "A teal colored car.",
+        "A maroon colored car.",
+        "An indigo colored car.",
+        "A lavender colored car.",
+        "A turquoise colored car.",
+        "A gold colored car.",
+        "A silver colored car.",
+        "A bronze colored car."
+    ],
+    "A red car and a white sheep.": [
+        "A red car and a white sheep.",
+        "A red car and two white sheep.",
+        "Two red cars and a white sheep.",
+        "A red car and a herd of white sheeps."
+    ],
+    "A zebra to the right of a fire hydrant.": [
+        "A zebra.",
+        "A fire hydrant.",
+        "A zebra to the left of a fire hydrant.",
+        "A zebra on top of a fire hydrant.",
+        "A zebra at the bottom of a fire hydrant.",
+        "Two zebras to the right of a fire hydrant."
+    ],
+    "a painting of a fox in the style of starry night": [
+        "a painting of a wolf in the style of starry night",
+        "a painting of a fox in the style of the scream",
+        "a painting of a fox in the style of the last supper",
+        "a painting of a bear in the style of starry night",
+        "a painting of a fox in the style of mona lisa"
+    ],
+    "A green cup and a blue cell phone.": [
+        "A green cup and two blue cell phones.",
+        "Two green cups and a blue cell phone.",
+        "An image showing a green cup-cell phone.",
+        "An image showing a bluce cell phone-cup"
+    ],
+    "Two dogs on the street.": [
+        "One dog on the street.",
+        "Three dogs on the street.",
+        "Four dogs on the street.",
+        "Five dogs on the street."
+    ],
+    "Four cars on the street.": [
+        "Two cars on the street.",
+        "Three cars on the street.",
+        "Five cars on the street.",
+        "Six cars on the street."
+    ],
+    "A heart made of cookie": [
+        "A star made of caramel",
+        "A flower made of marshmallows",
+        "A diamond made of gummy bears",
+        "A moon made of licorice",
+        "A sun made of jelly beans",
+        "A butterfly made of lollipops",
+        "A crown made of cotton candy",
+        "A rainbow made of skittles",
+        "A cloud made of cotton candy"
+    ],
+    "a boy and a tiger": [
+        "A boy and two tigers.",
+        "A boy and a lion.",
+        "Two boys and a tiger.",
+        "A girl and a tiger."
+    ],
+    "Greek statue of a man tripping over a cat.": [
+        "Greek statue of a man",
+        "Greek statue of two men",
+        "Greek statue of two men tripping over a cat.",
+        "Greek statue of a man tripping over a dog.",
+        "Greek statue of two men tripping over a dog.",
+        "Greek statue of a man tripping over a ball."
+    ],
+    "A bridge connecting Europe and North America on the Atlantic Ocean, bird's eye view.": [
+        "A bridge connecting Asia and Africa on the Indian Ocean, bird's eye view.",
+        "A bridge connecting South America and Africa on the Atlantic Ocean, bird's eye view.",
+        "A bridge connecting Europe and Asia on the Mediterranean Sea, bird's eye view.",
+        "A bridge connecting North America and Asia on the Pacific Ocean, bird's eye view.",
+        "A tunnel connecting Europe and North America under the Atlantic Ocean, bird's eye view."
+    ],
+    "One cat and one dog sitting on the grass.": [
+        "Two cats sitting on the grass.",
+        "Two dogs sitting on the grass.",
+        "One cat and two dogs sitting on the grass.",
+        "Two cats and one dog sitting on the grass."
+    ]
+}
